@@ -1,5 +1,4 @@
 package com.company.DivyamSavsaviya;
-
 import java.util.Scanner;
 
 public class DIVTHREE {
@@ -14,6 +13,7 @@ public class DIVTHREE {
             for (int i = 0 ; i < n ; i++){
                 totalProblem += scanner.nextInt();
             }
+            //printing min value
             System.out.println(Math.min(d, totalProblem / k));
         }
 
