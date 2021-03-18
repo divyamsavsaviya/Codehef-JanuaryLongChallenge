@@ -1,4 +1,4 @@
-Codechef januaryLongChalleng - https://www.codechef.com/JAN21C/problems/DIVTHREE
+//Codechef januaryLongChalleng - https://www.codechef.com/JAN21C/problems/DIVTHREE
 
 package com.company.DivyamSavsaviya;
 import java.util.Scanner;
